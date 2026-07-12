@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:000000,35:001F3F,70:007BFF,100:00BFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:000000,35:001F3F,70:007BFF,100:00BFFF"/>
 
 <h1 align="center">Hi 👋, I'm Sujal Kumar Singh</h1>
 
