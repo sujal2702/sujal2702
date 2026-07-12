@@ -25,7 +25,7 @@ I enjoy creating modern full-stack applications, exploring backend systems, lear
 - 🔭 Building scalable applications using the **MERN Stack**
 - 🌱 Currently learning **System Design**, **DevOps**, and **Cloud Technologies**
 - 🤝 Looking to collaborate on **Open Source** and **Full Stack** projects
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB, JavaScript, TypeScript, REST APIs, Git, and DSA**
+- 💬 Ask me about **React, Node.js, Express.js, MongoDB, JavaScript, REST APIs, Git, and DSA**
 - ⚡ Fun Fact: I love transforming ideas into polished products.
 
 ---
