@@ -118,7 +118,7 @@ I enjoy creating modern full-stack applications, exploring backend systems, lear
 <p align="center">
 
 <p align="center">
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,35:001F3F,70:007BFF,100:00BFFF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal2702&theme=github-dark&hide_border=true&bg_color=000000&color=00BFFF&line=39FF14&point=39FF14&title_color=00BFFF"/>
 </p>
 
 </p>
@@ -139,4 +139,4 @@ I enjoy creating modern full-stack applications, exploring backend systems, lear
 ⭐ If you like my work, consider giving a star to my repositories!
 </h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:000000,35:001F3F,70:007BFF,100:00BFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,35:001F3F,70:007BFF,100:00BFFF"/>
