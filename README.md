@@ -140,3 +140,5 @@ I enjoy creating modern full-stack applications, exploring backend systems, lear
 </h3>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,35:001F3F,70:007BFF,100:00BFFF"/>
+
+![snake gif](https://github.com/Sujal2702/Sujal2702/blob/output/github-snake-dark.svg)
